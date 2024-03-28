@@ -1,4 +1,4 @@
-# fin-edubot
+# news-edubot
 
 ## What
 A chatbot that uses llama-2 and GPT family of models and Retrieval-Augmented Generation (RAG) to answer your New articles-related questions. 
