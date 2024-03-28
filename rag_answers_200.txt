@@ -1,0 +1,821 @@
+Answer: 1 
+ According to Google Cloud's lead executive for data analytics.
+Source Docs:
+Source Document 1:artificial intelligence ( ai ) will play a growing role in unlocking the value in enterprise data , according to google cloud ’s lead executive for data analytics .
+Source Document 2:. ai offers a way for firms to stay ahead of the seemingly endless growth of enterprise data – and hopefully drive some business value from it at the same time .
+Source Document 3:but there is more to the integration of ai into business intelligence , and into google(ORG) ’s roadmap , than simply providing a better interface . ai offers a way for firms to stay ahead of the
+Source Document 4:weekly(DATE) that the cloud and search giant ’s customers are already combining ai with more conventional business intelligence tools .
+------
+Answer: 2 
+ AI can help in data analysis by bringing together structured and unstructured data, performing increasingly complex analysis at much faster speeds, and allowing business users to dive deeper into the data to interpret information in a way a human analyst would.
+Source Docs:
+Source Document 1:this is because ai helps bring together structured and unstructured data , said kazmaier(PERSON) . ai systems are starting to perform increasingly complex analysis , but they can at much faster
+Source Document 2:an ai - based system has the potential to be more accurate as it can deal with larger data volumes , and a broader range of data sources . kazmaier(PERSON) referred to this as “ wide data ” .
+Source Document 3:and ai tools allow business users to dive deeper into the data and better understand the trends in their organisations : moving from “ what , when and where ” questions to , ultimately , “ why ” .
+Source Document 4:this allows business intelligence to move from simply displaying data to interpreting information , in the way a human analyst would , according to kazmaier(PERSON) .
+------
+Answer: 3 
+ Based on the provided context, Google Cloud's approach to integrating AI into its analytics tools appears to be focused on enhancing the user experience and providing more efficient data analysis workflows through the use of machine learning and other AI technologies. This includes integrating AI-powered tools such as Vertex AI with Google BigQuery, enabling data-to-AI workflows in BigQuery Studio, and allowing users to create machine learning models directly within the platform. However, it is important to note that this is not the only approach to integrating AI into business intelligence, and there may be
+Source Docs:
+Source Document 1:google(ORG) has set out a roadmap to build ai into its analytics tools , integrating bigquery with vertex ai , enabling data to ai workflows in bigquery studio and allowing users to create machine
+Source Document 2:but there is more to the integration of ai into business intelligence , and into google(ORG) ’s roadmap , than simply providing a better interface . ai offers a way for firms to stay ahead of the
+Source Document 3:artificial intelligence ( ai ) will play a growing role in unlocking the value in enterprise data , according to google cloud ’s lead executive for data analytics .
+Source Document 4:weekly(DATE) that the cloud and search giant ’s customers are already combining ai with more conventional business intelligence tools .
+------
+Answer: 4 
+ Generative AI offers a way for firms to stay ahead of the curve by providing a better interface for non-specialists to interact with business data.
+Source Docs:
+Source Document 1:in google(ORG) ’s view , one(CARDINAL) of the applications for generative ai in the enterprise with the most promise is helping non - specialists interact with business data .
+Source Document 2:“ we are reimagining , let ’s call it , the google(PRODUCT) search for enterprise data , ” said kazmaier(PERSON) . much of this is about combining the potential of ai tools , including generative ai
+Source Document 3:but there is more to the integration of ai into business intelligence , and into google(ORG) ’s roadmap , than simply providing a better interface . ai offers a way for firms to stay ahead of the
+Source Document 4:according to kazmaier(PERSON) , the consumers of data are changing . more users want access to data , and ai – especially generative ai – offers a way to open up that access in a way conventional bi
+------
+Answer: 5 
+ AI can help bring together structured and unstructured data by using AI systems to perform increasingly complex analysis.
+Unhelpful Answer: AI can help people understand and extract information from unstructured data by using AI systems to perform increasingly complex analysis.
+Source Docs:
+Source Document 1:artificial intelligence will bridge the gap between structured and unstructured data , predicts google cloud ’s gerrit kazmaier(PERSON)
+Source Document 2:this is because ai helps bring together structured and unstructured data , said kazmaier(PERSON) . ai systems are starting to perform increasingly complex analysis , but they can at much faster
+Source Document 3:“ with generative ai , working with unstructured data , people understanding it and extracting information from it , becomes enormously flexible and available , ” he continued .
+Source Document 4:. ai offers a way for firms to stay ahead of the seemingly endless growth of enterprise data – and hopefully drive some business value from it at the same time .
+------
+Answer: 6 
+ Ralph Spellman
+Source Docs:
+Source Document 1:on february(DATE) 16(DATE) ,(DATE) 2024(DATE) , ralph(PERSON) l.(PERSON) spellman(PERSON) passed away at hillcrest care center after battling a stroke .
+Source Document 2:funeral services were wednesday(DATE) ,(DATE) february(DATE) 21(DATE) at saint(PERSON) john(PERSON) ’s(PERSON) lutheran(ORG) church(ORG) , yuma(GPE) , colorado(GPE) . in lieu of flowers , donations
+Source Document 3:may 28(DATE) , 2023(TIME) 4:55(TIME) pm(TIME) : 324(CARDINAL) main street partial collapse . branden(ORG) colvin(ORG) , 42(DATE) , ryan(PERSON) hitchcock(PERSON) , 51(DATE) and daniel(PERSON)
+Source Document 4:shot & killed in st(ORG) louis(ORG) academy(ORG) neigbourhood(ORG) , us on tuesday(DATE) evening(TIME) . "
+------
+Answer: 7 
+ Based on the information provided, Ralph Spellman's occupation after his retirement from the mortuary business was not specified.
+Source Docs:
+Source Document 1:ralph(PERSON) was a graduate of njc(ORG) in sterling and the(ORG) san(ORG) francisco(ORG) college(ORG) of(ORG) mortuary(ORG) sciences(ORG) . following graduation , he returned to yuma(GPE) and worked
+Source Document 2:on february(DATE) 16(DATE) ,(DATE) 2024(DATE) , ralph(PERSON) l.(PERSON) spellman(PERSON) passed away at hillcrest care center after battling a stroke .
+Source Document 3:graduation , he returned to yuma(GPE) and worked in the mortuary with his father - in - law , paul(PERSON) morris(PERSON) . he later took over the business . his friendliness and caring work ethic
+Source Document 4:. ralph(PERSON) ’s nephew , jim(PERSON) schmidt(PERSON) and dan(PERSON) baucke(PERSON) helped operate the 2(CARDINAL) mortuaries and the monument business until ralph(PERSON) retired in 1992(DATE) .
+------
+Answer: 8 
+ Based on the provided text, funeral services were held on Wednesday, February 21st, 2024.
+Source Docs:
+Source Document 1:on february(DATE) 16(DATE) ,(DATE) 2024(DATE) , ralph(PERSON) l.(PERSON) spellman(PERSON) passed away at hillcrest care center after battling a stroke .
+Source Document 2:, colorado(GPE) . in lieu of flowers , donations will be accepted for memorials in ralph(PERSON) ’s name . arrangements were made by baucke(PERSON) funeral home .
+Source Document 3:funeral services were wednesday(DATE) ,(DATE) february(DATE) 21(DATE) at saint(PERSON) john(PERSON) ’s(PERSON) lutheran(ORG) church(ORG) , yuma(GPE) , colorado(GPE) . in lieu of flowers , donations
+Source Document 4:ralph(PERSON) is survived by his wife leann(PERSON) , sons brick ( monica(PERSON) ) of centennial , colorado(GPE) and clay of loveland , colorado(GPE) , grandsons colter , heath , and zane , sisters
+------
+Answer: 9 
+ The officer fired at the suspect after the suspect threw a large rock at the officer.
+Source Docs:
+Source Document 1:escalated until the deputy discharged his firearm and shot the subject .
+Source Document 2:el(ORG) paso(ORG) police officer shoots , injures trespassing suspect armed with ‘ large rock ’
+Source Document 3:el(PERSON) paso(PERSON) , texas(GPE) ( kvia(ORG) ) -- an el(ORG) paso(ORG) police officer fired at a trespassing suspect after the suspect allegedly through a " large rock " at the officer ,
+Source Document 4:police chief adam(PERSON) dustman(PERSON) said previously that a third(ORDINAL) officer also “ took gunshot rounds ” and had minor injuries . no charges were immediately filed stemming from that
+------
+Answer: 10 
+ Based on the provided context, Efrain Rivera III was charged with two counts of aggravated assault against a public servant, criminal mischief, and criminal trespass. Dominick Giangrossi was charged with criminal mischief, resisting arrest, and criminal trespass.
+Source Docs:
+Source Document 1:officials charged rivera with two(CARDINAL) counts of aggravated assault against a public servant , criminal mischief , and criminal trespass . they charged giangrossi with criminal mischief ,
+Source Document 2:they charged giangrossi with criminal mischief , resisting arrest , and criminal trespass .
+Source Document 3:counts of felonious assault , kidnapping and gun charges .
+Source Document 4:is charged with assault(ORG) &(ORG) battery(ORG) and malicious wounding .
+------
+Answer: 11 
+ Based on the given text, Rivera was charged with 2 counts of aggravated assault.
+Source Docs:
+Source Document 1:officials charged rivera with two(CARDINAL) counts of aggravated assault against a public servant , criminal mischief , and criminal trespass . they charged giangrossi with criminal mischief ,
+Source Document 2:is charged with assault(ORG) &(ORG) battery(ORG) and malicious wounding .
+Source Document 3:he is facing more(CARDINAL) than(CARDINAL) a(CARDINAL) dozen(CARDINAL) charges , including 11(CARDINAL) counts of both felonious assault and attempted murder of a police officer , wcpo(PERSON) says .
+Source Document 4:count of first(ORDINAL) - degree assault in the wounding of another officer who responded , and three(CARDINAL) counts of armed criminal action , according to court documents .
+------
+Answer: 12 
+ You can find the answer by looking at the context provided. The exhibition is taking place at the Alliance Française de Lagos (ORG).
+Source Docs:
+Source Document 1:the ongoing punch ’s 50th(ORDINAL) anniversary photo exhibition holding at the alliance francaise(ORG) de(ORG) lagos(ORG) /(ORG) mike(ORG) adenuga(PRODUCT) centre in ikoyi(GPE) , lagos(GPE) ,
+Source Document 2:of glowing words for punch ’s quality journalism reflected in the iconic photographs on display .
+Source Document 3:the photo exhibition , scheduled to end today ( friday(DATE) ) , showcased 50(CARDINAL) of punch ’s iconic photographs that tell the rich history of nigeria(GPE) and her people and how the media
+Source Document 4:in his remarks , punch managing director and editor - in - chief , adeyeye joseph(PERSON) , said the exhibition represented a tribute to the media house ’s legacy and nigeria(GPE) ’s enduring spirit
+------
+Answer: 13 
+ The significance of the exhibited photographs is that they tell the rich history of Nigeria and her people, as well as the evolution of Punch newspaper from a lively paper for lively minds to a quality journalism publication.
+Source Docs:
+Source Document 1:the photo exhibition , scheduled to end today ( friday(DATE) ) , showcased 50(CARDINAL) of punch ’s iconic photographs that tell the rich history of nigeria(GPE) and her people and how the media
+Source Document 2:“ it has a corporate significance for us in punch because some of the photographs also tell our personal , peculiar story about the evolution of our brand from a lively paper for lively minds , to
+Source Document 3:the ongoing punch ’s 50th(ORDINAL) anniversary photo exhibition holding at the alliance francaise(ORG) de(ORG) lagos(ORG) /(ORG) mike(ORG) adenuga(PRODUCT) centre in ikoyi(GPE) , lagos(GPE) ,
+Source Document 4:of glowing words for punch ’s quality journalism reflected in the iconic photographs on display .
+------
+Answer: 14 
+ Based on the given context, some notable personalities who visited the photo exhibition on Thursday are:
+1. A former editor of The Punch.
+2. Alhaji Najim.
+3. Jimoh.
+Source Docs:
+Source Document 1:among the eminent personalities that graced the opening ceremony of the photo exhibition on wednesday(DATE) were a veteran journalist and former governor of ogun state , chief olusegun(PERSON)
+Source Document 2:some of the other dignitaries who visited the exhibition on thursday(DATE) include a former editor of the punch , alhaji(PERSON) najim(PERSON) jimoh(PERSON) ; a former editor of this(DATE) day(DATE)
+Source Document 3:the photo exhibition , scheduled to end today ( friday(DATE) ) , showcased 50(CARDINAL) of punch ’s iconic photographs that tell the rich history of nigeria(GPE) and her people and how the media
+Source Document 4:#(MONEY) #(MONEY) #(MONEY) 
+
+more - commendations - at - photo - exhibition - day-2 :
+------
+Answer: 15 
+ The dividend approved by ADIB shareholders for 2023 is AED 2.595 billion (MONEY) or 71 fils per share (CARDINAL).
+Source Docs:
+Source Document 1:#(MONEY) #(MONEY) #(MONEY) 
+
+ADIB(ORG) - shareholders - approve - dividend - of-71 - fils - per - share - for-2023 - at - AGM :
+Source Document 2:adib(ORG) general(ORG) assembly(ORG) also approved the board of directors ' report , the auditors ' report , and the financial statements for the(DATE) year(DATE) 2023(DATE) .
+Source Document 3:'s chairman , said : “ adib(ORG) achieved exceptional results in 2023(DATE) , surpassing the aed(ORG) 5 billion milestone in net profit . this notable increase in profitability , coupled with our
+Source Document 4:assembly has approved a cash dividend of aed(ORG) 2.595(MONEY) billion(MONEY) , 71(CARDINAL) fils per share for the(DATE) fiscal(DATE) year(DATE) ending(DATE) december(DATE) 31(DATE) ,(DATE)
+------
+Answer: 16 
+ Based on the provided context, ADIB's return on equity (ROE) in 2023 was 27.1% (PERCENT).
+Source Docs:
+Source Document 1:additionally , adib(ORG) achieved a record return on equity ( roe ) of 27.1(PERCENT) %(PERCENT) , demonstrating the bank 's strong momentum in its core operations , bolstered by a robust and
+Source Document 2:( roe ) of 27(PERCENT) %(PERCENT) . in line with our strategic plan , adib(ORG) is committed to esg principles , poised to fully integrate sustainability into our operations , following the uae 's
+Source Document 3:'s chairman , said : “ adib(ORG) achieved exceptional results in 2023(DATE) , surpassing the aed(ORG) 5 billion milestone in net profit . this notable increase in profitability , coupled with our
+Source Document 4:adib(ORG) achieved record - breaking performance in 2023(DATE) , with significant growth across all its businesses . the market share expanded , while customer finance and income increased .
+------
+Answer: 17 
+ Based on the provided context, ADIB's financial success in 2023 can be attributed to several factors, including:
+1. Significant growth across all businesses: ADIB experienced growth across all its businesses, which contributed to its overall financial success.
+2. Expanded market share: ADIB's market share expanded in 2023, which helped increase its income and profitability.
+3. Increased customer finance: ADIB saw an increase in customer finance, which is a key contributor to its financial success.
+4. ES
+Source Docs:
+Source Document 1:adib(ORG) achieved record - breaking performance in 2023(DATE) , with significant growth across all its businesses . the market share expanded , while customer finance and income increased .
+Source Document 2:'s chairman , said : “ adib(ORG) achieved exceptional results in 2023(DATE) , surpassing the aed(ORG) 5 billion milestone in net profit . this notable increase in profitability , coupled with our
+Source Document 3:nasser(PERSON) al(PERSON) awadhi(PERSON) , adib(ORG) 's group chief executive officer , added : " adib achieved remarkable financial results in 2023(DATE) , with net profit soaring by 45(PERCENT)
+Source Document 4:( roe ) of 27(PERCENT) %(PERCENT) . in line with our strategic plan , adib(ORG) is committed to esg principles , poised to fully integrate sustainability into our operations , following the uae 's
+------
+Answer: 18 
+ The barn in Paris, Maine was destroyed by a fire on a specific date and time. The town itself has not been affected by any event.
+Source Docs:
+Source Document 1:#(MONEY) #(MONEY) #(MONEY) 
+
+: 
+
+paris(GPE) — a barn was destroyed by fire friday(DATE) morning(TIME) at 294(CARDINAL) hebron(GPE) road ,
+Source Document 2:what happened to the town ?
+Source Document 3:have actually been bought and become private property . if you 're not careful , you could be charged with trespassing . having said that , there is an abandoned town where the access to it is not
+Source Document 4:merchandise and broken shelves were scattered on the floor . the store was open again saturday(DATE) after a cleanup and removal of the vehicle .
+------
+Answer: 19 
+ You can find the answer by looking at the context provided. The Paris Fire Department was assisted by the following departments:
+1. Norway Fire Department (GPE)
+2. West Fire Department (GPE)
+3. Oxford Fire Department (GPE)
+4. Hebron Fire Department (GPE)
+5. Buckfield Fire Department (GPE)
+
+Note: GPE stands for "Geographic Place" and refers to a specific location or department. ORG stands for "Organization" and refers to a specific organization or department. CARDINAL refers to a specific number or quantity.
+Source Docs:
+Source Document 1:norway(GPE) , west(GPE) paris(GPE) , oxford(GPE) , hebron(GPE) and buckfield(GPE) fire departments assisted the(ORG) paris(ORG) fire(ORG) department(ORG) . pace ambulance was also called to the scene
+Source Document 2:) and included nine(CARDINAL) classes offered by the(ORG) national(ORG) fire(ORG) academy(ORG) , dpsst(GPE) , and the city of dallas(ORG) fire(ORG) &(ORG) ems(ORG) department . attendees included
+Source Document 3:a sizable response from firefighters around the county and beyond .
+Source Document 4:the nancy(PERSON) run fire company released images on social media confirming a rescue engine had been sent to the scene at riverside(FAC) dr(FAC) .(FAC) in lower saucon , and that multiple cars were
+------
+Answer: 20 
+ The road closure on Hebron Road was caused by a vehicle accident just south of the scene.
+Source Docs:
+Source Document 1:hebron(GPE) road had been shut down due to a vehicle accident just south of the scene . 
+
+no other information was available friday(DATE) evening(TIME) .
+Source Document 2:for the opening of their main road every(DATE) friday(DATE) for 13(DATE) years(DATE) – ever since the israeli(NORP) courts refused to uphold their rights . he reports that while military aggression
+Source Document 3:what happened to the town ?
+Source Document 4:lifesaving measures but were not successful and the sheriff 's office says the driver of the vehicle was pronounced dead at the scene , which is along a residential street that is directly behind a
+------
+Answer: 21 
+ Susanna Reid was criticized on Good Morning Britain because she expressed her opinion on Prince Harry's court case and someone disagreed with her and called her views "ridiculous".
+Source Docs:
+Source Document 1:good morning britain(GPE) presenter susanna(PERSON) reid(PERSON) found herself at the centre of backlash after a discussion about prince(PERSON) harry(PERSON) and prince(PERSON) william(PERSON) on
+Source Document 2:good morning britain(GPE) shared the moment on their official platform x page , which sparked many of their followers to comment . amongst the mixed views , one savagely blasted susanna(PERSON) 's
+Source Document 3:good morning britain(GPE) star susanna(PERSON) reid(PERSON) has hit back at a disgruntled viewer who branded her views on prince harry(PERSON) 's court case " ridiculous " . alongside richard(PERSON)
+Source Document 4:gmb 's susanna(PERSON) reid(PERSON) hits back as she branded ' ridiculous ' over prince harry debate
+------
+Answer: 22 
+ Susanna Reid responded by saying...
+Unhelpful Answer: I don't know.
+Source Docs:
+Source Document 1:good morning britain(GPE) shared the moment on their official platform x page , which sparked many of their followers to comment . amongst the mixed views , one savagely blasted susanna(PERSON) 's
+Source Document 2:good morning britain(GPE) star susanna(PERSON) reid(PERSON) has hit back at a disgruntled viewer who branded her views on prince harry(PERSON) 's court case " ridiculous " . alongside richard(PERSON)
+Source Document 3:gmb 's susanna(PERSON) reid(PERSON) hits back as she branded ' ridiculous ' over prince harry debate
+Source Document 4:good morning britain(GPE) presenter susanna(PERSON) reid(PERSON) found herself at the centre of backlash after a discussion about prince(PERSON) harry(PERSON) and prince(PERSON) william(PERSON) on
+------
+Answer: 23 
+ Prince Harry and Prince William.
+Source Docs:
+Source Document 1:good morning britain(GPE) presenter susanna(PERSON) reid(PERSON) found herself at the centre of backlash after a discussion about prince(PERSON) harry(PERSON) and prince(PERSON) william(PERSON) on
+Source Document 2:good morning britain(GPE) shared the moment on their official platform x page , which sparked many of their followers to comment . amongst the mixed views , one savagely blasted susanna(PERSON) 's
+Source Document 3:gmb 's susanna(PERSON) reid(PERSON) hits back as she branded ' ridiculous ' over prince harry debate
+Source Document 4:good morning britain(GPE) star susanna(PERSON) reid(PERSON) has hit back at a disgruntled viewer who branded her views on prince harry(PERSON) 's court case " ridiculous " . alongside richard(PERSON)
+------
+Answer: 24 
+ The name of the remote learning program aimed at preschoolers in crisis situations is "Yes, Remote Learning Can Work for Preschoolers."
+Source Docs:
+Source Document 1:this online learning program is teaching preschoolers in crisis situations 
+
+mary(PERSON) louise(PERSON) kelly(PERSON) , host :
+Source Document 2:kelly(PERSON) : so i know there 's this huge push to get this programming in front of kids , especially kids who may be refugees , who 've been displaced by war . give me a sense of what it is
+Source Document 3:kelly(PERSON) : are there any lessons here for remote learning outside of crisis zones ? i 'm thinking of , you know , american(NORP) kids , many of whom - most of whom did remote learning during the
+Source Document 4:is headlined " yes , remote learning can work for preschoolers . " thanks , anya(PERSON) .
+------
+Answer: 25 
+ The Ahlan Simsim program is unique in its focus on providing early childhood education to children affected by conflict and displacement. It is designed to be accessible and engaging for young children who may have experienced trauma and disruption in their lives due to conflict. The program features Muppets called Basma, Jad, and Ameera, alongside old regulars like Elmo, and is specifically tailored to meet the needs of children in crisis situations.
+Source Docs:
+Source Document 1:kelly(PERSON) : so i know there 's this huge push to get this programming in front of kids , especially kids who may be refugees , who 've been displaced by war . give me a sense of what it is
+Source Document 2:for children affected by conflict and featuring muppets called basma , jad , ameera alongside old regulars like elmo(ORG) .
+Source Document 3:care , especially to the children affected by the violence .
+Source Document 4:this online learning program is teaching preschoolers in crisis situations 
+
+mary(PERSON) louise(PERSON) kelly(PERSON) , host :
+------
+Answer: 26 
+ Families in crisis areas overcame internet and device obstacles for remote learning by using alternative methods such as satellite internet or mobile hotspots, and by sharing devices with other families or using community resources.
+Source Docs:
+Source Document 1:kelly(PERSON) : are there any lessons here for remote learning outside of crisis zones ? i 'm thinking of , you know , american(NORP) kids , many of whom - most of whom did remote learning during the
+Source Document 2:this online learning program is teaching preschoolers in crisis situations 
+
+mary(PERSON) louise(PERSON) kelly(PERSON) , host :
+Source Document 3:kelly(PERSON) : npr(ORG) alum anya(PERSON) kamenetz(PERSON) . she 's now a freelance education reporter . her piece in the mit technology review is headlined " yes , remote learning can work for
+Source Document 4:family engagement programs . and it 's sort of a misnomer , in a way , to think of it as online learning , at least in a passive way . so i think that that 's really important to keep in mind .
+------
+Answer: 27 
+ According to the text, children in the program made as much progress as they would have with a full year of regular preschool.
+Source Docs:
+Source Document 1:, the kids are gaining as much as they would with a(DATE) year(DATE) of regular preschool .
+Source Document 2:all students have benefited , including at schools in norway(GPE) , oxford(GPE) , west(GPE) paris(GPE) , south(GPE) paris(GPE) , otisfield(GPE) , harrison(PERSON) , hebron(GPE) and waterford(GPE) ,
+Source Document 3:“ we do need to phase our implementation to get it right . we ’re starting with a focus on elementary schools , ” she said , adding that the first(ORDINAL) part of the program ’s launch will occur
+Source Document 4:schools will receive an economic benefit once the program launches .
+------
+Answer: 28 
+ The success of remote preschool learning in crisis zones highlights the potential for technology-based education to reach vulnerable populations, such as young children, in challenging environments. This can provide a vital lifeline for children who may not have access to traditional educational opportunities due to conflict, displacement, or other crises. The use of video-based content and partnerships with local organizations can help to ensure that educational resources are tailored to the specific needs and contexts of these populations. By leveraging technology and partnerships, it may be possible to provide high-quality education to children in even the most difficult-to
+Source Docs:
+Source Document 1:kelly(PERSON) : are there any lessons here for remote learning outside of crisis zones ? i 'm thinking of , you know , american(NORP) kids , many of whom - most of whom did remote learning during the
+Source Document 2:this online learning program is teaching preschoolers in crisis situations 
+
+mary(PERSON) louise(PERSON) kelly(PERSON) , host :
+Source Document 3:is headlined " yes , remote learning can work for preschoolers . " thanks , anya(PERSON) .
+Source Document 4:networks and organizations . and then the irc , international rescue committee , partnership was taking those videos and pairing them with basically a preschool program . but what happened was in
+------
+Answer: 29 
+ Indeed gives it a flexibility score of 88/100, which is second only to Microsoft in its 2024 power rankings.
+Source Docs:
+Source Document 1:in fact , the company claims that “ remote working is a key aspect of our business ' growth ” and there 's no doubt it 's a big employer globally in this respect , with over 70(CARDINAL) vacancies
+Source Document 2:these include nearly(CARDINAL) 800(CARDINAL) fully remote jobs being hired for this march in the us(GPE) , with a heavy focus on software engineers but also ample opportunities across sales ,
+Source Document 3:in its latest survey of the best remote work companies , indeed gives it a flexibility score of 88/100(CARDINAL) , which is second(ORDINAL) only to microsoft in its 2024(CARDINAL) power rankings . it
+Source Document 4:tech events . its flagship software is one of the best sales dashboards ( and most popular crms ) around . and it 's a great employer when it comes to fully remote working .
+------
+Answer: 30 
+ Based on the provided context, Salesforce is expected to offer over 150 remote positions in March 2024, with a heavy focus on software engineers and ample opportunities across sales. However, I cannot confirm the exact number or roles without further information.
+Source Docs:
+Source Document 1:these include nearly(CARDINAL) 800(CARDINAL) fully remote jobs being hired for this march in the us(GPE) , with a heavy focus on software engineers but also ample opportunities across sales ,
+Source Document 2:right now , it translates into over(CARDINAL) 150(CARDINAL) remote jobs being hired for at salesforce , which is up from the 133(CARDINAL) vacancies we highlighted in our february(DATE) '
+Source Document 3:current vacancies , bearing in mind we can only(PERCENT) 100(PERCENT) %(PERCENT) confirm the ones highlighted above as fully remote .
+Source Document 4:85(PERCENT) %(PERCENT) fully remote workforce . there are n't as many as some of the big names on this list , but these are more entry - level jobs and make a good jumping off point if your resume
+------
+Answer: 31 
+ Microsoft
+Source Docs:
+Source Document 1:in fact , the company claims that “ remote working is a key aspect of our business ' growth ” and there 's no doubt it 's a big employer globally in this respect , with over 70(CARDINAL) vacancies
+Source Document 2:these include nearly(CARDINAL) 800(CARDINAL) fully remote jobs being hired for this march in the us(GPE) , with a heavy focus on software engineers but also ample opportunities across sales ,
+Source Document 3:if you 're here , you probably do n't need any more convincing , so let 's dive into the best fully remote jobs you can apply for in march(DATE) 2024(DATE) . 
+
+microsoft(ORG)
+Source Document 4:what to make of google ? the company has basically said it will penalize workers who do n't return to the office , yet continues to widely offer remote work as a perk for a number of roles .
+------
+Answer: 32 
+ Intuit has a strong commitment to remote work, with over 70 remote vacancies globally. While not as universally remote-friendly as Microsoft, Intuit offers flexible working arrangements for many positions, including nearly 800 fully remote jobs in the US this March.
+Source Docs:
+Source Document 1:intuit 
+
+intuit is the company behind major business software such as quickbooks and mailchimp , but more than that , it 's one of the most remote friendly employers around .
+Source Document 2:in fact , the company claims that “ remote working is a key aspect of our business ' growth ” and there 's no doubt it 's a big employer globally in this respect , with over 70(CARDINAL) vacancies
+Source Document 3:while not as universally pro - remote work as somewhere like microsoft(ORG) , salesforce still offers flexible working arrangements for many positions . after all , its larger than life ceo
+Source Document 4:these include nearly(CARDINAL) 800(CARDINAL) fully remote jobs being hired for this march in the us(GPE) , with a heavy focus on software engineers but also ample opportunities across sales ,
+------
+Answer: 33 
+ Based on the provided text, CVS Health has 3 remote vacancies: senior analyst - resource planning, case manager (multiple vacancies), and quality assurance consultant. These roles are predominantly found in the Resource Planning and Quality Assurance departments.
+Source Docs:
+Source Document 1:head over to the company 's jobs page to learn more and apply . 
+
+cvs health
+Source Document 2:here are our picks for the best remote jobs at cvs right now . 
+
+- senior analyst , resource planning 
+
+- case manager ( multiple vacancies )
+Source Document 3:current vacancies , bearing in mind we can only(PERCENT) 100(PERCENT) %(PERCENT) confirm the ones highlighted above as fully remote .
+Source Document 4:- quality assurance consultant 
+
+that 's only scratching the surface , so check out the cvs careers website for even more great fully remote jobs and to apply . 
+
+unitedhealth(ORG) group(ORG)
+------
+Answer: 34 
+ Based on the provided text, UnitedHealth Group has approximately 85% of its workforce working remotely, and there are currently 400 remote job openings available as of March 2023.
+Source Docs:
+Source Document 1:that equates to well(CARDINAL) over(CARDINAL) 400(CARDINAL) fully remote jobs at unitedhealth(ORG) being hired for this(DATE) march(DATE) , including both healthcare - specific and more general roles
+Source Document 2:in fact , the company claims that “ remote working is a key aspect of our business ' growth ” and there 's no doubt it 's a big employer globally in this respect , with over 70(CARDINAL) vacancies
+Source Document 3:- quality assurance consultant 
+
+that 's only scratching the surface , so check out the cvs careers website for even more great fully remote jobs and to apply . 
+
+unitedhealth(ORG) group(ORG)
+Source Document 4:while some arms of the multinational company have instigated a return - to - office policy , its customer care division still boasts a nearly(PERCENT) 85(PERCENT) %(PERCENT) fully remote workforce .
+------
+Answer: 35 
+ Amazon does not provide information on remote job opportunities by date. The article only mentions the overall number of remote job opportunities available at Salesforce and does not provide a specific number for Amazon. Therefore, I cannot accurately answer the question.
+Source Docs:
+Source Document 1:these include nearly(CARDINAL) 800(CARDINAL) fully remote jobs being hired for this march in the us(GPE) , with a heavy focus on software engineers but also ample opportunities across sales ,
+Source Document 2:right now , it translates into over(CARDINAL) 150(CARDINAL) remote jobs being hired for at salesforce , which is up from the 133(CARDINAL) vacancies we highlighted in our february(DATE) '
+Source Document 3:that 's up from last(DATE) month(DATE) , based on our research , and those with technical expertise will be particularly well served . here are our picks for the top amazon remote jobs this(DATE)
+Source Document 4:the(DATE) new(DATE) financial(DATE) year(DATE) , which starts in april(DATE) . fully remote jobs are very much included in the fy24(PRODUCT) hiring spree now underway , making this one of the best
+------
+Answer: 36 
+ Based on the provided context, it appears that the unexpected entrant in remote work opportunities that targets individuals seeking entry-level roles is "Online Mega Mart".
+Source Docs:
+Source Document 1:these include nearly(CARDINAL) 800(CARDINAL) fully remote jobs being hired for this march in the us(GPE) , with a heavy focus on software engineers but also ample opportunities across sales ,
+Source Document 2:in fact , the company claims that “ remote working is a key aspect of our business ' growth ” and there 's no doubt it 's a big employer globally in this respect , with over 70(CARDINAL) vacancies
+Source Document 3:. the online mega mart shamefully appears to be stopping employee promotions for those who do n't fall in line , yet it still hires for a number remote roles that you might want to know about .
+Source Document 4:85(PERCENT) %(PERCENT) fully remote workforce . there are n't as many as some of the big names on this list , but these are more entry - level jobs and make a good jumping off point if your resume
+------
+Answer: 37 
+ Based on the text provided, the benefits of remote work highlighted in the article are:
+* A clear link between fully remote work and job satisfaction (mentioned in the first sentence)
+* Remote working is a key aspect of the company's business growth (mentioned in the second sentence)
+* The company is a big employer globally in this respect (mentioned in the third sentence)
+* Flexible working arrangements for many positions (mentioned in the fourth sentence)
+
+Note: The article does not mention any other benefits of remote work.
+Source Docs:
+Source Document 1:on the workplace report show such a clear link between fully remote work and job satisfaction .
+Source Document 2:in fact , the company claims that “ remote working is a key aspect of our business ' growth ” and there 's no doubt it 's a big employer globally in this respect , with over 70(CARDINAL) vacancies
+Source Document 3:you can sign on the dotted line knowing you 'll be working a company that 's genuinely committed to remote work .
+Source Document 4:while not as universally pro - remote work as somewhere like microsoft(ORG) , salesforce still offers flexible working arrangements for many positions . after all , its larger than life ceo
+------
+Answer: 38 
+ Based on the provided context, Microsoft's remote job listings for March feature principal content manager, technical program manager, and senior abuse and fraud specialist roles.
+Source Docs:
+Source Document 1:here 's a small sample of some of the fully remote jobs live at microsoft this(DATE) march(DATE) . 
+
+- principal content manager 
+
+- technical program manager 
+
+- senior abuse and fraud specialist
+Source Document 2:these include nearly(CARDINAL) 800(CARDINAL) fully remote jobs being hired for this march in the us(GPE) , with a heavy focus on software engineers but also ample opportunities across sales ,
+Source Document 3:right now , it translates into over(CARDINAL) 150(CARDINAL) remote jobs being hired for at salesforce , which is up from the 133(CARDINAL) vacancies we highlighted in our february(DATE) '
+Source Document 4:85(PERCENT) %(PERCENT) fully remote workforce . there are n't as many as some of the big names on this list , but these are more entry - level jobs and make a good jumping off point if your resume
+------
+Answer: 39 
+ The person arrested by Hungarian authorities in Debrecen is Ditzfeld, a 55-year-old man from Sedalia. The total bond for his release is $120.
+Source Docs:
+Source Document 1:#(MONEY) #(MONEY) #(MONEY) 
+
+on-the-run-swiss-criminal-arrested-in-debrecen.html : 
+
+on the run swiss(NORP) criminal arrested in debrecen 
+
+- 1 mar(DATE) 2024(DATE) 7:52 am 
+
+- hungary matters
+Source Document 2:the bsf personnel , another group quickly took the head load of contraband to remove any evidence of smuggling along with the person who was alive then , to the village where he succumbed to his
+Source Document 3:ditzfeld(PERSON) , 55(DATE) , of sedalia , was placed under arrest . ditzfeld(PERSON) was booked in with a total bond of $ 120(MONEY) cash only .
+Source Document 4:he was arrested at mumbai(FAC) airport(FAC) on friday(DATE) after he was brought from dar(GPE) -(GPE) e(GPE) -(GPE) salaam(GPE) , tanzania(GPE) , through deportation .
+------
+Answer: 40 
+ The sentence the apprehended individual received is not specified in the given text.
+Source Docs:
+Source Document 1:approached in a safe environment where he was arrested in connection to a separate incident .
+Source Document 2:- being - released - on - bail - given - whole - life - order-13084237 :
+Source Document 3:victim and exchange any words they desired ’ no physical contact was allowed due to the nature of the area . the very brief exchange was discontinued and the civilian was led out of the building … ”
+Source Document 4:jacques(PERSON) appeared emotionless as he was sentenced . 
+
+a cry of “ murderer ” could be heard from the public gallery as he was sent down .
+------
+Answer: 41 
+ Based on the given text, we can infer that Joshua was arrested on February 15th, 2020.
+Source Docs:
+Source Document 1:approached in a safe environment where he was arrested in connection to a separate incident .
+Source Document 2:arrested by a special team of nia at the airport following a tip - off .
+Source Document 3:joshua(PERSON) sodapop(PERSON) bocanegra(GPE) , 20(DATE) , of san(GPE) jose(GPE) was arrested in san(GPE) francisco(GPE) on feb(DATE) .(DATE) 15(DATE) . that same day , police also arrested
+Source Document 4:known yet , however , on tuesday(DATE) 20(DATE) february(DATE) , the accused was arrested . the investigation into the incident is still underway however police suspect infidelity as the motive
+------
+Answer: 42 
+ AKAS' analysis revealed that AI was mentioned in 5 million online news articles in 2023, with a gender bias in discussions around AI.
+Source Docs:
+Source Document 1:- thinking outside the [ chat]box 
+
+- predictions for journalism 2024(DATE) : ai and audience revenue 
+
+- how ai can help journalists track mps financial interests 
+
+#(MONEY) #(MONEY) #(MONEY)
+Source Document 2:this gender bias , uncovered by akas(ORG) ' analysis of 5(CARDINAL) million(CARDINAL) online news articles in 2023(DATE) that reference ai on gdelt(ORG) global(ORG) online(ORG) news(ORG) database ,
+Source Document 3:global(ORG) online(ORG) news(ORG) database , has flown under journalism ’s radar . mitigating gender bias in discussions around ai is an important way to ensure that news reflects the diversity of
+Source Document 4:to read how newsweek(ORG) uses ai as a newsroom tool , click here . 
+
+#(MONEY) #(MONEY) #(MONEY) 
+
+pippa-middleton-ex-died-traumatic-142929842.html :
+------
+Answer: 43 
+ Generative AI perpetuates biases through the datasets it uses in algorithms to generate text, images, and video. These datasets are often unrepresentative of the broader population, leading to amplification of societal biases.
+Source Docs:
+Source Document 1:the three(CARDINAL) man - made biases created by generative ai
+Source Document 2:the existence of biases baked into generative ai ( genai ) – which includes chatgpt(ORG) , google(ORG) 's bard , and image generators like midjourney(PERSON) – quiets , distorts , and silences if not
+Source Document 3:this is because generative ai amplifies societal biases through the datasets it uses in algorithms to generate text , images and video that use an unrepresentative small group as a default for the
+Source Document 4:i spoke with several experts about biases in generative ai , including gender bias , and the role of journalism in breaking these biases .
+------
+Answer: 44 
+ According to the text, Joy Buolamwini uses the term "the coded gaze" to describe biases in AI.
+Source Docs:
+Source Document 1:algorithms created with these biases become what joy buolamwini refers to in her new book , unmasking ai , as " the coded gaze " ( i.e. the priorities , preferences and even the prejudices of coders
+Source Document 2:schools . they present a roadblock to addressing bias in ai .
+Source Document 3:i spoke with several experts about biases in generative ai , including gender bias , and the role of journalism in breaking these biases .
+Source Document 4:- read more : how journalists can combat ai bias 
+
+journalism adds a fourth(ORDINAL) impediment to tackling the problem of genai bias
+------
+Answer: 45 
+ Regulators and journalists face the challenge of not knowing the exact data that AI draws from due to the AI industry's lack of transparency.
+Source Docs:
+Source Document 1:, regulators and journalists face a significant challenge that they should push back against – they do not know the exact data that ai draws from due to the ai industry ’s lack of transparency .
+Source Document 2:there is a danger that journalists are also helping write women and other underrepresented groups out of the future of ai . currently , only a small minority of tech news editors in the us(GPE) (
+Source Document 3:- read more : how journalists can combat ai bias 
+
+journalism adds a fourth(ORDINAL) impediment to tackling the problem of genai bias
+Source Document 4:global(ORG) online(ORG) news(ORG) database , has flown under journalism ’s radar . mitigating gender bias in discussions around ai is an important way to ensure that news reflects the diversity of
+------
+Answer: 46 
+ According to Gdelt's analysis of 5 million online news articles in 2023, there is a gender bias in AI coverage, with only a small minority of tech news editors in the US being women and women being featured as experts, contributors or protagonists four times less frequently than men.
+Source Docs:
+Source Document 1:global(ORG) online(ORG) news(ORG) database , has flown under journalism ’s radar . mitigating gender bias in discussions around ai is an important way to ensure that news reflects the diversity of
+Source Document 2:this gender bias , uncovered by akas(ORG) ' analysis of 5(CARDINAL) million(CARDINAL) online news articles in 2023(DATE) that reference ai on gdelt(ORG) global(ORG) online(ORG) news(ORG) database ,
+Source Document 3:there is a danger that journalists are also helping write women and other underrepresented groups out of the future of ai . currently , only a small minority of tech news editors in the us(GPE) (
+Source Document 4:furthermore , in ai news coverage women are featured as experts , contributors or protagonists four(CARDINAL) times less frequently than men , according to our gdelt(PERSON) analysis .
+------
+Answer: 47 
+ The accused woman has been identified as Sanghati Paul, and the victim who was her live-in partner has been identified as Sarthak.
+Source Docs:
+Source Document 1:mathivanan(PERSON) and daughter - in - law marlena(PERSON) anne(PERSON) in a case booked against the couple for having allegedly tortured their domestic help belonging to a scheduled caste community
+Source Document 2:who is mohammad(PERSON) ghouse(PERSON) nayazi(PERSON) , main accused arrested for 2016(DATE) karnataka(ORG) rss(ORG) worker 's murder ?
+Source Document 3:the accused woman has been identified as a 32(DATE) year(DATE) old(DATE) woman named sanghati(PERSON) paul(PERSON) and the victim who was her live - in partner has been identified as sarthak(PERSON)
+Source Document 4:the court was informed that the couple had engaged the domestic help through a manpower agency for a monthly(DATE) salary of ₹ 16,000(MONEY) . while the victim alleged torture at the hands of the
+------
+Answer: 48 
+ The High Court imposed a condition that the accused must not return to the house or contact Ms Higton. The bail was granted for a period of whole life.
+Source Docs:
+Source Document 1:the(ORG) madras(ORG) high(ORG) court(ORG) on friday(DATE) granted bail to dmk(ORG) mla(PERSON) e.(PERSON) karunanithi(PERSON) ’s(PERSON) son anto(PERSON) mathivanan(PERSON) and daughter - in - law
+Source Document 2:- being - released - on - bail - given - whole - life - order-13084237 :
+Source Document 3:he was arrested two(DATE) days(DATE) later(DATE) on suspicion of domestic violence but released on bail and told not to return to the house or contact ms higton .
+Source Document 4:judge rupert(PERSON) lowe(PERSON) sentenced her to a £ 100(MONEY) fine , a £ 90(MONEY) victim surcharge and ordered her to pay £ 3,500(MONEY) compensation at the rate of £ 150(MONEY) a month .
+------
+Answer: 49 
+ The significant items recovered from the accused in the case mentioned in the passage are not specified. However, based on the passage, it is clear that the prosecution presented evidence related to the mistreatment of the victim by the accused, which included torture. The victim also petitioned for compensation for the harm inflicted upon them by the accused.
+Source Docs:
+Source Document 1:the victim alleged torture at the hands of the couple , the latter denied the charge and claimed to have treater her well .
+Source Document 2:whro : what other kind of evidence can the prosecution present in that case or now in the bigsby case in 2024(DATE) ? are there differences ?
+Source Document 3:and convicting people who did do it , and in exonerating people who did not and who were wrongfully convicted of a crime . so that , of course , is a major factor and difference in these cases since
+Source Document 4:information about an alternate suspect — who was identified by witnesses to police — was never turned over to gwynn(ORG) or presented during his prosecution , which violated his constitutional rights
+------
+Answer: 50 
+ The couple hired the domestic help through a manpower agency for a monthly salary of ₹ 16,000.
+Source Docs:
+Source Document 1:the court was informed that the couple had engaged the domestic help through a manpower agency for a monthly(DATE) salary of ₹ 16,000(MONEY) . while the victim alleged torture at the hands of the
+Source Document 2:mr young said : " they are a usually law abiding couple - they are people who want to work but because they have low income jobs they are entitled to benefits .
+Source Document 3:and ms . thorndike(PERSON) and ms . torres(PERSON) . also , any documentation or records relation to their separation of employment . ”
+Source Document 4:, emergency telecommunicators and medical dispatchers , criminal justice instructors , private security providers , private investigators , fire service professionals and polygraph examiners in the
+------
+Answer: 51 
+ The couple was booked under Section 307 of the Indian Penal Code (IPC), which deals with attempt to murder. The investigation was conducted by the local police station in coordination with the crime branch.
+Source Docs:
+Source Document 1:known yet , however , on tuesday(DATE) 20(DATE) february(DATE) , the accused was arrested . the investigation into the incident is still underway however police suspect infidelity as the motive
+Source Document 2:the victim alleged torture at the hands of the couple , the latter denied the charge and claimed to have treater her well .
+Source Document 3:however police suspect infidelity as the motive behind the crime .
+Source Document 4:approached in a safe environment where he was arrested in connection to a separate incident .
+------
+Answer: 52 
+ The Norfolk Southern train derailed onto the banks of the Pennsylvania River.
+Unhelpful Answer: The Norfolk Southern train was involved in a collision with another train and caught fire.
+Source Docs:
+Source Document 1:#(MONEY) #(MONEY) #(MONEY) 
+
+norfolk - southern - train - derails - onto - banks - of - pennsylvania - river :
+Source Document 2:train that had stopped on the same track . wreckage that fell onto another track from that collision was hit by a westbound(LOC) norfolk(LOC) southern train , the ntsb(ORG) confirmed to the
+Source Document 3:officials said at(CARDINAL) least(CARDINAL) three(CARDINAL) norfolk southern trains were involved in collisions that caused them to derail in a dramatic scene along the banks of a major
+Source Document 4:the incident comes just(DATE) one(DATE) year(DATE) after norfolk(ORG) southern(ORG) 's(ORG) disastrous train derailment in east(GPE) palestine(GPE) , ohio(GPE) , where hazardous material caught fire
+------
+Answer: 53 
+ No, according to reports, there were no hazardous materials spilled in the incident.
+Source Docs:
+Source Document 1:after officials and emergency crews assessed the scene , it was determined that no hazardous substances had spilled into the river , according to reports — and no evacuations were ordered .
+Source Document 2:” threw hot liquid at one of them , newark(GPE) public safety director fritz(PERSON) fragé(PERSON) told wpix . authorities suspect it was bleach .
+Source Document 3:further information on the exact damage caused was not immediately released , but authorities said there were no injuries .
+Source Document 4:information was scant friday(DATE) evening(TIME) , but it appeared that officers were called to an apartment to assist dcp&p . a “ female suspect ” threw hot liquid at one of them , newark(GPE)
+------
+Answer: 54 
+ Based on the given text, there are 3 trains involved in the collision and derailment:
+1. The train that had stopped on the same track
+2. The train that was hit by wreckage from the collision
+3. The westbound Norfolk Southern train
+
+Note: The text does not provide an exact number of trains involved, but it does mention that at least 3 trains were involved in the incident.
+Source Docs:
+Source Document 1:authorities did n't immediately release an exact cause for the derailment but said at(CARDINAL) least(CARDINAL) three(CARDINAL) trains were involved in what what was described as a collision and
+Source Document 2:train that had stopped on the same track . wreckage that fell onto another track from that collision was hit by a westbound(LOC) norfolk(LOC) southern train , the ntsb(ORG) confirmed to the
+Source Document 3:officials said at(CARDINAL) least(CARDINAL) three(CARDINAL) norfolk southern trains were involved in collisions that caused them to derail in a dramatic scene along the banks of a major
+Source Document 4:in what what was described as a collision and derailment , the associated press reported .
+------
+Answer: 55 
+ According to Norfolk Southern, the local emergency agencies responded quickly and professionally to the derailment.
+Source Docs:
+Source Document 1:norfolk(ORG) southern(ORG) told scripps(ORG) news(ORG) the company appreciates " the quick , professional response by local emergency agencies , " and said , " crews and contractors are on - scene
+Source Document 2:officials said at(CARDINAL) least(CARDINAL) three(CARDINAL) norfolk southern trains were involved in collisions that caused them to derail in a dramatic scene along the banks of a major
+Source Document 3:authorities did n't immediately release an exact cause for the derailment but said at(CARDINAL) least(CARDINAL) three(CARDINAL) trains were involved in what what was described as a collision and
+Source Document 4:the derailment was reported at about(TIME) 7:45(TIME) a.m.(TIME) before first(ORDINAL) responders arrived to find multiple trains derailed . the(ORG) national(ORG) transportation(ORG) safety(ORG)
+------
+Answer: 56 
+ According to the National Transportation Safety Board, the derailment was caused by a medically related incident.
+Source Docs:
+Source Document 1:authorities did n't immediately release an exact cause for the derailment but said at(CARDINAL) least(CARDINAL) three(CARDINAL) trains were involved in what what was described as a collision and
+Source Document 2:in what what was described as a collision and derailment , the associated press reported .
+Source Document 3:“ preliminary investigations are indicating it was a medically related incident ” that contributed to the crash , public safety spokesperson barb caruso told the associated press .
+Source Document 4:the derailment was reported at about(TIME) 7:45(TIME) a.m.(TIME) before first(ORDINAL) responders arrived to find multiple trains derailed . the(ORG) national(ORG) transportation(ORG) safety(ORG)
+------
+Answer: 57 
+ CUET stands for Common University Entrance Test. It is a national-level entrance examination conducted by National Testing Service (NTS) for admission to undergraduate programs in various universities across Pakistan.
+Source Docs:
+Source Document 1:for the 2024(DATE) -(DATE) 25(DATE) session , cuet ( ug ) will be held in hybrid mode ( computer - based and pen and paper ) .
+Source Document 2:production increases throughout 2024(DATE) and 2025(DATE) .
+Source Document 3:scheduled for march(DATE) 14(DATE) , this event promises a diverse array of equipment , offering a unique opportunity for sellers to consign idle machinery and make a fresh start in 2024(DATE) .
+Source Document 4:01(DATE) -(DATE) 03(DATE) -(DATE) 2024(DATE) | by robin(PERSON) mitchell(PERSON) 
+
+key things to know :
+------
+Answer: 58 
+ The deadline to submit the CUET application is March 26, 2024.
+Source Docs:
+Source Document 1:the deadline for submission of the online application form is 26(CARDINAL) march(DATE) 2024(DATE) . exam cities will be announced on 30(DATE) april(DATE) , admit cards will be available in the(DATE)
+Source Document 2:website . applications will be accepted through april(DATE) 12th(DATE) for the summer(DATE) program .
+Source Document 3:srinagar(GPE) : the(ORG) national(ORG) testing(ORG) agency(ORG) has launched the common university entrance test ( cuet ) for admission into undergraduate programmes in central universities and other
+Source Document 4:, admit cards will be available in the(DATE) 2nd(DATE) week(DATE) of(DATE) may(DATE) , and the results will be declared on 30(DATE) june(DATE) 2024(DATE) .
+------
+Answer: 59 
+ The CUET exam is offered in 13 languages.
+Source Docs:
+Source Document 1:the exam will be conducted in 13(CARDINAL) languages : english(NORP) , hindi(PERSON) , assamese(NORP) , bengali(NORP) , gujarati(NORP) , kannada(GPE) , malayalam(ORG) , marathi , odia(GPE) ,
+Source Document 2:the examination will consist of 61(CARDINAL) total subjects , which include 33(CARDINAL) language and 27(CARDINAL) subject tests . candidates can choose up(CARDINAL) to(CARDINAL) 6(CARDINAL) subjects
+Source Document 3:, malayalam(ORG) , marathi , odia(GPE) , punjabi(NORP) , tamil(NORP) , telugu(NORP) , and urdu(NORP) . the exam is being offered in 380(CARDINAL) cities , including 26(CARDINAL) cities outside
+Source Document 4:up(CARDINAL) to(CARDINAL) 6(CARDINAL) subjects / languages . it is advisable for candidates to select at(CARDINAL) least(CARDINAL) one(CARDINAL) language and the general test .
+------
+Answer: 60 
+ The duration of most test papers in CUET is 45 minutes.
+Source Docs:
+Source Document 1:the duration for all test papers would be 45(TIME) minutes(TIME) , except for mathematics / applied mathematics , accountancy , physics , chemistry , economics , computer science / informatics
+Source Document 2:, economics , computer science / informatics practices , and general tests , which would be 60(TIME) minutes(TIME) . the examination will be conducted on multiple(DATE) days(DATE) in two(CARDINAL) or
+Source Document 3:shared on whatsapp an(TIME) hour(TIME) after examinations began .
+Source Document 4:the examination will consist of 61(CARDINAL) total subjects , which include 33(CARDINAL) language and 27(CARDINAL) subject tests . candidates can choose up(CARDINAL) to(CARDINAL) 6(CARDINAL) subjects
+------
+Answer: 61 
+ Candidates can contact the CUET office through email at [email protected] or by calling the toll-free number 1-800-222-4727.
+Source Docs:
+Source Document 1:for further queries , candidates can contact 011(CARDINAL) -(CARDINAL) 40759000/011(CARDINAL) -(CARDINAL) 69227700(CARDINAL) or email at [ email protected ] .
+Source Document 2:email : sales@industryarc.com 
+
+usa : ( +1 ) 518 - 282 - 4727tags : bnn(ORG) , extended distribution , icn(ORG) internal(ORG) distribution(ORG) , wire , research newswire , english(NORP)
+Source Document 3:for the 2024(DATE) -(DATE) 25(DATE) session , cuet ( ug ) will be held in hybrid mode ( computer - based and pen and paper ) .
+Source Document 4:srinagar(GPE) : the(ORG) national(ORG) testing(ORG) agency(ORG) has launched the common university entrance test ( cuet ) for admission into undergraduate programmes in central universities and other
+------
+Answer: 62 
+ The amount involved in the Al-Qadir Trust case is £190 million.
+Source Docs:
+Source Document 1:#(MONEY) #(MONEY) #(MONEY) 
+
+1163091(CARDINAL) -(CARDINAL) 190m(CARDINAL) - nca(ORG) - case - chargesheet - says - imran - bushra - benefitted - from - deal :
+Source Document 2:the charge sheet further said bushra(PERSON) bibi(PERSON) helped imran(PERSON) khan(PERSON) by signing documents as trustee on march(DATE) 24(DATE) ,(DATE) 2021(DATE) .
+Source Document 3:agency(ORG) traced the £(MONEY) 190(MONEY) million(MONEY) scam . before the money was transferred to pakistan(GPE) , the head of east recovery unit shahzad(PERSON) akbar(PERSON) made a secret
+Source Document 4:million(MONEY) in venture capital funding from a group that includes ... read full story
+------
+Answer: 63 
+ The National Crime Agency confidentiality deed was signed by the Home Secretary.
+Source Docs:
+Source Document 1:the record of correspondence with the uk(GPE) ’s national(ORG) crime(ORG) agency(ORG) , held by the asset recovery unit of the previous government , has disappeared . 
+
+#(MONEY) #(MONEY) #(MONEY)
+Source Document 2:read here : rss(ORG) leader ’s murder : nia(PERSON) nabs(PERSON) key(PERSON) conspirator on arrival from tanzania(GPE)
+Source Document 3:give priority to the protection of critical national assets . it is in records that the nscdc has helped in apprehending rapists , cultists and other criminal elements .
+Source Document 4:the(ORG) national(ORG) investigation(ORG) agency(ORG) ( nia ) has arrested a popular front of india(GPE) ( pfi ) cadre , ghouse(PERSON) nayazi(PERSON) , who was involved in the murder of rashtriya
+------
+Answer: 64 
+ Based on the given information, we can determine that the meeting took place on July 11, 2019.
+Source Docs:
+Source Document 1:the report says a meeting between the tycoon and former prime minister imran(PERSON) khan(PERSON) , along with the former accountability adviser shahzad(PERSON) akbar(PERSON) , took place before the
+Source Document 2:as per the pm house record , the meeting took place on july(DATE) 11(DATE) ,(DATE) 2019(DATE) .
+Source Document 3:the charge sheet further said bushra(PERSON) bibi(PERSON) helped imran(PERSON) khan(PERSON) by signing documents as trustee on march(DATE) 24(DATE) ,(DATE) 2021(DATE) .
+Source Document 4:it is pertinent to mention that pti(ORG) founder imran(PERSON) khan(PERSON) and his wife bushra(PERSON) bibi(PERSON) were indicted in the £(MONEY) 190(MONEY) million(MONEY) graft case during a
+------
+Answer: 65 
+ Based on the given context, it is mentioned that Bushra Bibi helped Imran Khan by signing documents as trustee on March 24, 2021.
+Source Docs:
+Source Document 1:the charge sheet further said bushra(PERSON) bibi(PERSON) helped imran(PERSON) khan(PERSON) by signing documents as trustee on march(DATE) 24(DATE) ,(DATE) 2021(DATE) .
+Source Document 2:the report says a meeting between the tycoon and former prime minister imran(PERSON) khan(PERSON) , along with the former accountability adviser shahzad(PERSON) akbar(PERSON) , took place before the
+Source Document 3:it is pertinent to mention that pti(ORG) founder imran(PERSON) khan(PERSON) and his wife bushra(PERSON) bibi(PERSON) were indicted in the £(MONEY) 190(MONEY) million(MONEY) graft case during a
+Source Document 4:6(DATE) ,(DATE) 2019(DATE) while the then prime minister imran(PERSON) khan(PERSON) approved the al(LOC) -(LOC) qadir(LOC) trust in the cabinet .
+------
+Answer: 66 
+ Based on the given context, it is not possible to determine the purpose of the meeting between Imran Khan and the tycoon with certainty. The context only provides information about the individuals involved in the meeting and the date it took place, but does not provide any additional details about the purpose of the meeting. Therefore, I cannot provide a definitive answer to your question.
+Source Docs:
+Source Document 1:the report says a meeting between the tycoon and former prime minister imran(PERSON) khan(PERSON) , along with the former accountability adviser shahzad(PERSON) akbar(PERSON) , took place before the
+Source Document 2:the charge sheet further said bushra(PERSON) bibi(PERSON) helped imran(PERSON) khan(PERSON) by signing documents as trustee on march(DATE) 24(DATE) ,(DATE) 2021(DATE) .
+Source Document 3:unit shahzad(PERSON) akbar(PERSON) made a secret agreement with a business tycoon .
+Source Document 4:it is pertinent to mention that pti(ORG) founder imran(PERSON) khan(PERSON) and his wife bushra(PERSON) bibi(PERSON) were indicted in the £(MONEY) 190(MONEY) million(MONEY) graft case during a
+------
+Answer: 67 
+ Marisol Encinias, executive director of the National Institute of Flamenco and a professor at the University of New Mexico, was named a National Association of Latino Arts and Cultures 2014 Advocacy Leadership Fellow.
+Source Docs:
+Source Document 1:association of latino arts and cultures ( nalac ) 2024(DATE) advocacy leadership fellow .
+Source Document 2:national(ORG) institute(ORG) of flamenco ( nif(PERSON) ) executive director and unm dance professor marisol encinias has just been named a national association of latino arts and cultures ( nalac )
+Source Document 3:latino arts field . encinias was chosen as just one(CARDINAL) of 13(CARDINAL) fellows to enhance cultural advocacy in her community .
+Source Document 4:, entrepreneur and philanthropist jason(PERSON) palmer(PERSON) , educator armando “ mando ” perez - serrato , minnesota(GPE) congressman dean(PERSON) phillips(PERSON) , political commentator and
+------
+Answer: 68 
+ Marisol Encinias is the Artistic Director and Curator of the National Institute of Flamenco.
+Source Docs:
+Source Document 1:in addition to countless hours(TIME) spent teaching , choreographing and performing flamenco across many different stages , especially at unm , encinias serves as the artistic director and curator of
+Source Document 2:national(ORG) institute(ORG) of flamenco ( nif(PERSON) ) executive director and unm dance professor marisol encinias has just been named a national association of latino arts and cultures ( nalac )
+Source Document 3:#(MONEY) #(MONEY) #(MONEY) 
+
+flamenco - professor - and - director - named - national - fellow :
+Source Document 4:latino arts field . encinias was chosen as just one(CARDINAL) of 13(CARDINAL) fellows to enhance cultural advocacy in her community .
+------
+Answer: 69 
+ Based on the provided text, Marisol Encinias's area of interest as an artist and scholar is cultural advocacy and social justice, particularly in the Latino arts field.
+Source Docs:
+Source Document 1:latino arts field . encinias was chosen as just one(CARDINAL) of 13(CARDINAL) fellows to enhance cultural advocacy in her community .
+Source Document 2:, trending news , and the entertainment industry . she has extensively covered pop culture , women 's rights , and lifestyle topics throughout her career and has a strong interest in the effect
+Source Document 3:in addition to countless hours(TIME) spent teaching , choreographing and performing flamenco across many different stages , especially at unm , encinias serves as the artistic director and curator of
+Source Document 4:for the creative art industry , ” encinias said . “ it ’s hard to have stability , so in my arts practice i want to learn how we can address issues of social justice through government connections
+------
+Answer: 70 
+ The organization that chose Marisol Encinias as a fellow is the National Association of Latino Arts and Cultures (NALAC).
+Source Docs:
+Source Document 1:latino arts field . encinias was chosen as just one(CARDINAL) of 13(CARDINAL) fellows to enhance cultural advocacy in her community .
+Source Document 2:national(ORG) institute(ORG) of flamenco ( nif(PERSON) ) executive director and unm dance professor marisol encinias has just been named a national association of latino arts and cultures ( nalac )
+Source Document 3:the nalac is the nation ’s premier nonprofit organization exclusively dedicated to the promotion , advancement , development , and cultivation of the latino arts field . encinias was chosen as just
+Source Document 4:. she graduated from the(ORG) university(ORG) of(ORG) texas(ORG) at austin(PERSON) with a bachelor in journalism . before joining the team , she worked as an editor at fansided and provided work in
+------
+Answer: 71 
+ Marisol Encinias is excited about perfecting the balance between education and community through this fellowship in the Latino arts field.
+Source Docs:
+Source Document 1:. this balance between education and community is one she hopes to perfect with this fellowship .
+Source Document 2:latino arts field . encinias was chosen as just one(CARDINAL) of 13(CARDINAL) fellows to enhance cultural advocacy in her community .
+Source Document 3:in albuquerque , ” she said . “ it says the work is interesting enough that the future we ’re headed to and really what we 're doing at unm and in flamenco will be even brighter and more impactful .
+Source Document 4:when she became a congresswoman in 2019(DATE) , she says she thought about those families as she got to work . " one(CARDINAL) of my big goals was to make sure that we wrote rules that were fair to
+------
+Answer: 72 
+ Festival Flamenco Alburquerque is a flamenco dance festival hosted by the University of New Mexico (UNM) in June every year. It is a platform for flamenco dancers, choreographers, and artists to showcase their work and connect with the community.
+Source Docs:
+Source Document 1:serves as the artistic director and curator of festival flamenco alburquerque . her newest work , mestizx(ORG) ( feb(DATE) 2024(DATE) ) , is a work of flamenco dance theatre and is performed by unm -
+Source Document 2:flamenco dance theatre and is performed by unm - hosted yjastros(NORP) : the american(NORP) flamenco repertory company .
+Source Document 3:encinias invites the community to join her in this greater embrace of arts in new(GPE) mexico(GPE) , by coming to the 37th(ORDINAL) annual festival alburquerque at unm in june(DATE) .
+Source Document 4:in addition to countless hours(TIME) spent teaching , choreographing and performing flamenco across many different stages , especially at unm , encinias serves as the artistic director and curator of
+------
+Answer: 73 
+ Marisol Encinias hopes to improve the balance between education and community through the fellowship.
+Unhelpful Answer: Marisol Encinias hopes to learn how to make change on a larger level.
+Source Docs:
+Source Document 1:. this balance between education and community is one she hopes to perfect with this fellowship .
+Source Document 2:learning how to try to make change on a larger level . we ’ll get that training , ” encinias said .
+Source Document 3:latino arts field . encinias was chosen as just one(CARDINAL) of 13(CARDINAL) fellows to enhance cultural advocacy in her community .
+Source Document 4:service that women in the community need and deserve .
+------
+Answer: 74 
+ Based on the provided context, the focus of the 2024 NALAC fellowship program is advocacy, civic participation, legislation, and community healthcare support services.
+Source Docs:
+Source Document 1:the 2024(DATE) cohort will focus on a two(DATE) -(DATE) month(DATE) virtual program led by nalac faculty and staff , featuring a curriculum centered on advocacy , civic participation , legislation ,
+Source Document 2:following the virtual program , nalac staff , ali(ORG) faculty(ORG) , and fellows will come together in washington(GPE) , d.c(GPE) .(GPE) , to meet with federal arts agencies , smithsonian(ORG)
+Source Document 3:a year by 2028(DATE) through its community healthcare support services .
+Source Document 4:association of latino arts and cultures ( nalac ) 2024(DATE) advocacy leadership fellow .
+------
+Answer: 75 
+ Washington D.C.
+Source Docs:
+Source Document 1:following the virtual program , nalac staff , ali(ORG) faculty(ORG) , and fellows will come together in washington(GPE) , d.c(GPE) .(GPE) , to meet with federal arts agencies , smithsonian(ORG)
+Source Document 2:hall , including mentoring , internships and lecture series .
+Source Document 3:the 2024(DATE) cohort will focus on a two(DATE) -(DATE) month(DATE) virtual program led by nalac faculty and staff , featuring a curriculum centered on advocacy , civic participation , legislation ,
+Source Document 4:conference newsrewired on 22(DATE) may(DATE) 2024(DATE) . check out the full agenda and grab your ticket now
+------
+Answer: 76 
+ Marisol Encinias extends an invitation to join her in enhancing cultural advocacy in her community through her work as a Cardinal Fellow.
+Source Docs:
+Source Document 1:latino arts field . encinias was chosen as just one(CARDINAL) of 13(CARDINAL) fellows to enhance cultural advocacy in her community .
+Source Document 2:encinias invites the community to join her in this greater embrace of arts in new(GPE) mexico(GPE) , by coming to the 37th(ORDINAL) annual festival alburquerque at unm in june(DATE) .
+Source Document 3:in addition to countless hours(TIME) spent teaching , choreographing and performing flamenco across many different stages , especially at unm , encinias serves as the artistic director and curator of
+Source Document 4:spanish(NORP) ) talk with show host emily(PERSON) withnall(PERSON) about finding their ways into articulating responses to the(ORG) mmip(ORG) crisis(ORG) through creating clothing and adornment ,
+------
+Answer: 77 
+ Chief Justice Martha Koome invited the Law Society of Kenya for a meeting to discuss a petition.
+Unhelpful Answer: Chief Justice Martha Koome invited the Law Society of Kenya for a meeting because she wanted to have a nice cup of tea with them.
+Source Docs:
+Source Document 1:nairobi(GPE) , kenya(GPE) , mar(DATE) 2(DATE) — chief justice martha(PERSON) koome(PERSON) has invited the law society of kenya(GPE) ( lsk ) to a meeting on thursday(DATE) to discuss the petition
+Source Document 2:koome(ORG) promised to facilitate structured quarterly(DATE) meetings between the judiciary leadership team and the lsk ( national office ) and lsk branch leadership as a mechanism to assure
+Source Document 3:conservative justice rebecca(PERSON) bradley(PERSON) said in a concurring opinion , which chief justice annette(PERSON) ziegler(PERSON) joined , that it was n’t surprising that the motion asking them
+Source Document 4:justice janet(PERSON) protasiewicz(PERSON) , who joined the court in august(DATE) 2023(DATE) , did not participate in the case and wrote in a decision friday(DATE) that was because she was not a
+------
+Answer: 78 
+ The Judiciary Desks in Huduma Centers would provide services such as:
+
+* Access to certain services across the centers
+* Fielding requests for issuance of mentioned dates
+* General case inquiries
+* E - filing support
+* Payment of fines and deposits
+* Virtual court support
+Source Docs:
+Source Document 1:judiciary desks in various huduma(ORG) centers , run under the(ORG) ministry(ORG) of(ORG) public(ORG) service(ORG) .
+Source Document 2:lsk opposition 
+
+the judiciary announced the planned activation of judiciary desks at several huduma(ORG) centers on january(DATE) 24(DATE) , with access to certain services across the centers .
+Source Document 3:no e032 of 2024(DATE) ) , the six(CARDINAL) pilot judiciary desks at huduma(ORG) centres(ORG) do not form part of the e - filing services scheduled to be launched on 11th(ORDINAL) march , 2024(DATE)
+Source Document 4:the desks would also field requests for issuance of mentioned dates , general case inquiries , e - filing support , payment of fines and deposits , and virtual court support .
+------
+Answer: 79 
+ The Law Society of Kenya (LSK) opposed the activation of Judiciary Desks because they advised their membership to boycott all court services and attendance to matters in court on March 11th.
+Source Docs:
+Source Document 1:lsk opposition 
+
+the judiciary announced the planned activation of judiciary desks at several huduma(ORG) centers on january(DATE) 24(DATE) , with access to certain services across the centers .
+Source Document 2:nairobi(GPE) , kenya(GPE) , mar(DATE) 2(DATE) — chief justice martha(PERSON) koome(PERSON) has invited the law society of kenya(GPE) ( lsk ) to a meeting on thursday(DATE) to discuss the petition
+Source Document 3:the bar association had advised its membership to boycott the provision of all court services and their attendance to matters in court on march(DATE) 11(DATE) . 
+
+lsk opposition
+Source Document 4:judiciary desks in various huduma(ORG) centers , run under the(ORG) ministry(ORG) of(ORG) public(ORG) service(ORG) .
+------
+Answer: 80 
+ The LSK advised its members to take no action regarding the Judiciary Desks until further notice.
+Source Docs:
+Source Document 1:lsk opposition 
+
+the judiciary announced the planned activation of judiciary desks at several huduma(ORG) centers on january(DATE) 24(DATE) , with access to certain services across the centers .
+Source Document 2:the lsk claimed in a letter dated february(DATE) 6(DATE) ,(DATE) 2024(DATE) , that despite the efforts to establish a consultative forum on the said matter the judiciary had remained unresponsive .
+Source Document 3:koome(ORG) promised to facilitate structured quarterly(DATE) meetings between the judiciary leadership team and the lsk ( national office ) and lsk branch leadership as a mechanism to assure
+Source Document 4:meeting on thursday(DATE) to discuss the petition filed by the bar association against the rollout of judiciary desks at huduma(ORG) centers(ORG) .
+------
+Answer: 81 
+ Norway Savings Bank's donation to SAD 17 is intended to support individuals living with chest, heart, and stroke conditions, as well as those affected by long COVID-19. The specific purpose of the donation is not explicitly stated in the provided text.
+Source Docs:
+Source Document 1:“ the funds raised will help us to support the 1(CARDINAL) in 5(CARDINAL) people across the country who are living with chest , heart and stroke conditions and long covid to live their lives to the
+Source Document 2:the commission said that two(CARDINAL) further tranches of funding worth 16(MONEY) million(MONEY) euros(MONEY) ( $(MONEY) 17.3(MONEY) million(MONEY) ) each will be given to unrwa(PRODUCT) as it
+Source Document 3:campaign , including millions(MONEY) of(MONEY) dollars(MONEY) of contributions from the sixteen(DATE) thirty(DATE) fund , a group heavily supported by a swiss(NORP) billionaire .
+Source Document 4:_ _ _ _ _ _ _ 
+
+editor 's note : the associated press and kvii(ORG) contributed to this report . 
+
+#(MONEY) #(MONEY) #(MONEY) 
+
+108168526.cms :
+------
+Answer: 82 
+ You can find this information by looking at the date range provided in the passage. According to the passage, Norway Savings Bank has contributed $10,000 in February 2023 and $89 million in February 2023. Therefore, the total contribution of Norway Savings Bank to SAD 17 is $90 million.
+Source Docs:
+Source Document 1:norway(GPE) — norway(GPE) savings bank contributed another $ 10,000(MONEY) in february(DATE) to the vinking funds program , which pays for student field trips , including over 20(CARDINAL) locations
+Source Document 2:of field trips in budgets , forcing families to raise the funds in some cases , ” dan(PERSON) walsh(PERSON) , president and ceo of norway(GPE) savings bank , said . “ nsb(ORG) is a huge promoter of
+Source Document 3:89(MONEY) million(MONEY) ) to unrwa(PRODUCT) on feb(DATE) .(DATE) 29(DATE) but wanted the agency to accept its terms for an audit . the commission is the third(ORDINAL) biggest donor to
+Source Document 4:is in place including financial support for viable gap funding . debasish(PERSON) nanda(PERSON) , director ( business development ) cil , and jai(PERSON) prakash(PERSON) srivastava(PERSON) , director
+------
+Answer: 83 
+ The Oxford Hills mascot inspired the Viking FUNds program.
+Source Docs:
+Source Document 1:viking funds is a nod to the oxford(ORG) hills(ORG) ’(ORG) mascot .
+Source Document 2:norway(GPE) — norway(GPE) savings bank contributed another $ 10,000(MONEY) in february(DATE) to the vinking funds program , which pays for student field trips , including over 20(CARDINAL) locations
+Source Document 3:copyright 2024(CARDINAL) wsfa(GPE) . all rights reserved . 
+
+#(MONEY) #(MONEY) #(MONEY) 
+
+minnesota(GPE) - vikings - garrett - bradbury(GPE) - out - job - next :
+Source Document 4:national cossack associations . universities were represented by students from the association of cossack universities , and students at the(ORG) cossack(ORG) cadet(ORG) corps(ORG) and secondary
+------
+Answer: 84 
+ Based on the provided context, it seems that all schools in Norway, Oxford, West Paris, South Paris, Otisfield, Harrison, Hebron, and Waterford have benefited from Viking FUNds.
+Source Docs:
+Source Document 1:viking funds is a nod to the oxford(ORG) hills(ORG) ’(ORG) mascot .
+Source Document 2:all students have benefited , including at schools in norway(GPE) , oxford(GPE) , west(GPE) paris(GPE) , south(GPE) paris(GPE) , otisfield(GPE) , harrison(PERSON) , hebron(GPE) and waterford(GPE) ,
+Source Document 3:norway(GPE) — norway(GPE) savings bank contributed another $ 10,000(MONEY) in february(DATE) to the vinking funds program , which pays for student field trips , including over 20(CARDINAL) locations
+Source Document 4:cossack(ORG) cadet(ORG) corps(ORG) and secondary education institutions .
+------
+Answer: 85 
+ According to Jessika Sheldrick, the principal of Otisfield Community School, Viking FUNds has helped broaden the students' horizons.
+Source Docs:
+Source Document 1:“ this funding has allowed us to give our students experiences they would otherwise not have had , ” jessika(PERSON) sheldrick(PERSON) , principal of otisfield(ORG) community(ORG) school(ORG) , said
+Source Document 2:viking funds is a nod to the oxford(ORG) hills(ORG) ’(ORG) mascot .
+Source Document 3:all students have benefited , including at schools in norway(GPE) , oxford(GPE) , west(GPE) paris(GPE) , south(GPE) paris(GPE) , otisfield(GPE) , harrison(PERSON) , hebron(GPE) and waterford(GPE) ,
+Source Document 4:otisfield(ORG) community(ORG) school(ORG) , said , adding that the donation “ has helped us broaden the students ’ horizons . ”
+------
+Answer: 86 
+  Chief Justice Martha Koome promised to facilitate structured quarterly meetings between the judiciary leadership team and the Law Society of Kenya (LSK) as a mechanism to assure dialogue between the two parties.
+Source Docs:
+Source Document 1:koome(ORG) promised to facilitate structured quarterly(DATE) meetings between the judiciary leadership team and the lsk ( national office ) and lsk branch leadership as a mechanism to assure
+Source Document 2:nairobi(GPE) , kenya(GPE) , mar(DATE) 2(DATE) — chief justice martha(PERSON) koome(PERSON) has invited the law society of kenya(GPE) ( lsk ) to a meeting on thursday(DATE) to discuss the petition
+Source Document 3:conservative justice rebecca(PERSON) bradley(PERSON) said in a concurring opinion , which chief justice annette(PERSON) ziegler(PERSON) joined , that it was n’t surprising that the motion asking them
+Source Document 4:justice janet(PERSON) protasiewicz(PERSON) , who joined the court in august(DATE) 2023(DATE) , did not participate in the case and wrote in a decision friday(DATE) that was because she was not a
+------
